@@ -14,8 +14,8 @@ Weekly Notes
 - .exe AppImage -> Code (java) to Bytecode(.class) to binary (Exe)
 - LiveGrep / Regex patterns
 === Friday === 
--
--
+- grep / find
+- adb logcat -s TAG
 === Saturday === 
 -
 -
