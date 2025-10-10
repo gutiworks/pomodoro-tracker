@@ -1,4 +1,4 @@
-Weekly Notes
+# Weekly Notes
 
 === Monday === 
 - x86 vs ARM CPUs
