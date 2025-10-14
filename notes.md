@@ -1,10 +1,10 @@
-# Weekly Notes
+# WEEKLY NOTES
 
 === Monday === 
 - x86 vs ARM CPUs
 - QuickSort algorithm ( Divide and conquer )
 === Tuesday === 
--
+- Windows manager / Windows server (X)
 -
 === Wednesday === 
 -
