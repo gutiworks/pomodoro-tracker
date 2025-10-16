@@ -1,24 +1,22 @@
 # WEEKLY NOTES
 
 === Monday === 
-- x86 vs ARM CPUs
-- QuickSort algorithm ( Divide and conquer )
+x86 vs ARM CPUs
+QuickSort algorithm ( Divide and conquer )
+
 === Tuesday === 
-- Windows manager / Windows server (X)
--
+Windows manager / Windows server (X)
+
 === Wednesday === 
--
--
+
 === Thursday === 
-- .jar Files / Manifest
-- .exe AppImage -> Code (java) to Bytecode(.class) to binary (Exe)
-- LiveGrep / Regex patterns
+Do my own window manager
+Check sandbox Docker / VM
+
 === Friday === 
-- grep / find
-- adb logcat -s TAG
+grep / find
+adb logcat -s TAG
+
 === Saturday === 
--
--
+
 === Sunday === 
--
--
