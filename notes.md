@@ -22,7 +22,9 @@ adb logcat -s TAG
     -> UTF 8 -> 2^32 -> 4 milions
 Dissasembly -> how it works?
 https://www.geeksforgeeks.org/linux-unix/objdump-command-in-linux-with-examples/
+
 https://www.baeldung.com/linux/disassemble-machine-code
+
 https://www.advania.co.uk/blog/infrastructure/intro-to-basic-disassembly-reverse-engineering/#content
 
 === Saturday === 
