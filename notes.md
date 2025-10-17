@@ -14,12 +14,13 @@ Do my own window manager
 Check sandbox Docker / VM
 
 === Friday === 
-grep / find
-adb logcat -s TAG
-
 1 byte -> 8 bits 0000 0000 
     -> ASCII -> 2^8 -> 256 opciones
     -> UTF 8 -> 2^32 -> 4 milions
+
+Why does it have the 0x before? finish reading
+https://www.johndcook.com/blog/2019/09/09/how-utf-8-works/
+    
 Dissasembly -> how it works?
 https://www.geeksforgeeks.org/linux-unix/objdump-command-in-linux-with-examples/
 
