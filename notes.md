@@ -17,6 +17,12 @@ Check sandbox Docker / VM
 grep / find
 adb logcat -s TAG
 
+1 byte -> 8 bits 0000 0000 
+    -> ASCII -> 2^8 -> 256 opciones
+    -> UTF 8 -> 2^32 -> 4 milions
+Dissasembly -> how it works?
+https://www.geeksforgeeks.org/linux-unix/objdump-command-in-linux-with-examples/
+https://www.baeldung.com/linux/disassemble-machine-code
 === Saturday === 
 
 === Sunday === 
